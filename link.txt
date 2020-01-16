@@ -1,0 +1,4 @@
+https://learninglaravel.net/books/laravel/building-our-first-website (web learning)
+https://laravel.com/docs/master/controllers (lara controller)
+https://appdividend.com/2019/09/12/laravel-6-crud-example-laravel-6-tutorial-for-beginners/ (lara crud beginners)
+https://www.udemy.com/course/laravel-6-framework/ (lara php framework)
