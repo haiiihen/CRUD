@@ -14,3 +14,13 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('homepage', function(){
+    return view('pages.homepage');
+});
+
+Route::get('siswa', function(){
+    $siswa =['Rasmus', 'Taylor', 'Brendan', 'John'];
+    return view('siswa.index', compact('siswa'));
+});
+    
